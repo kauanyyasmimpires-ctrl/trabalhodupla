@@ -1,0 +1,17 @@
+ body {
+    backgroud-color: lightblue;
+    color: darkblue;
+    fort-size: 18px;
+    text-align: center;
+    margin: 30px;
+ }
+
+ h1 {
+    backgroud-color: white
+    padding: 15px;
+    border-radius: 15px;
+ }
+
+ h1:hover {
+    backgroud-color: lightgreen;
+ }
